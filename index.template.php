@@ -314,7 +314,7 @@ function template_html_below()
 	global $context, $settings, $options, $scripturl, $txt, $modSettings;
 
 	echo '
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+        <!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
         <script type="text/javascript" src="', $settings['theme_url'], '/scripts/jquery.slicknav.js"></script>
         <script type="text/javascript">
                 $(document).ready(function(){
