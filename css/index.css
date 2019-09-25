@@ -4,7 +4,7 @@
 /* Normal, standard links. */
 a:link, a:visited
 {
-	color: #246ec3;
+	color: #f0c518;
 	text-decoration: none;
 }
 a:hover
@@ -1411,7 +1411,7 @@ table.table_list tbody.content td.icon
 {
 	font-weight: bold;
 	font-size: 110%;
-        color: #246ec3;
+        color: #f0c518;
 }
 .table_list tbody.content td.children
 {
@@ -3530,16 +3530,16 @@ span.hidelink
 }
 #navigation li a.active {
 	background: none;
-	color: #246ec3;
-        border-bottom: 2px solid #246ec3;
+	color: #f0c518;
+        border-bottom: 2px solid #f0c518;
 }
 #navigationli a:hover, #navigation li:hover a, #navigation li.sfhover a {
 	background: none;
-	color: #246ec3;
+	color: #f0c518;
 	text-decoration: none;
 }
 #navigation li:hover li a, #navigation li ul li a:hover {
-	color: #246ec3;
+	color: #f0c518;
 	background-color: #1a1e27;
 }
 #navigation li li {
@@ -3631,7 +3631,7 @@ box-shadow: rgba(0, 0, 0, 0.08) 1px 0px 20px 0px;
 .social-font-awesome i {
 	font-size: 16px;
 	display: inline-block;
-	color: #246ec3;
+	color: #f0c518;
 	margin: 0 5px;
 	width: 20px;
 	height: 20px;
